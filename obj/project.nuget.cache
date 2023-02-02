@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bGS6GmJFBHEj86UqVSLY6b+z+y6bEEUXVEu1QFTTmb4NWzbOtGXldpet0wWbB7G8aIno6JtwW1RCDhc0f1yu7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonathan.amaya\\source\\repos\\my-todos-solution\\my-todos-backend\\my-todos-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\jonathan.amaya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
